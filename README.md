@@ -1,5 +1,5 @@
 # Patika.Dev-OOP
-1. [University Management System] (https://github.com/Eldekipek/Patika.Dev-OOP/blob/main/UniversityManagementSystem(UML%20Diagram).PNG)
+1. [University Management System] (https://github.com/Eldekipek/Patika.Dev-OOP/blob/main/UniversityManagementSystem(UML%20Diagram).PNG).
 
 ## Required Items
 1. [University Management System] (https://github.com/Eldekipek/Patika.Dev-OOP/blob/main/UniversityManagementSystem(UML%20Diagram).PNG)
